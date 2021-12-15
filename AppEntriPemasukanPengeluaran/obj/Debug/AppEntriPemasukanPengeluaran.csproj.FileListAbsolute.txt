@@ -1,0 +1,46 @@
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\AppEntriPemasukanPengeluaran.Properties.Resources.resources
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\AppEntriPemasukanPengeluaran.csproj.GenerateResource.Cache
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\bin\Debug\AppEntriPemasukanPengeluaran.exe
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\bin\Debug\AppEntriPemasukanPengeluaran.pdb
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\AppEntriPemasukanPengeluaran.FrmNasabah.resources
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\AppEntriPemasukanPengeluaran.FrmEntriPemasukanPengeluaran.resources
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\AppEntriPemasukanPengeluaran.exe
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\AppEntriPemasukanPengeluaran.pdb
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\AppEntriPemasukanPengeluaran.csprojResolveAssemblyReference.cache
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.exe
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.pdb
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\AppEntriPemasukanPengeluaran\bin\Debug\AppEntriPemasukanPengeluaran.exe
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\AppEntriPemasukanPengeluaran\bin\Debug\AppEntriPemasukanPengeluaran.pdb
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.csprojResolveAssemblyReference.cache
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.FrmNasabah.resources
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.FrmEntriPemasukanPengeluaran.resources
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.Properties.Resources.resources
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.csproj.GenerateResource.Cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\09 Pertemuan 9\upload\project\AppEntriPemasukanPengeluaran\bin\Debug\AppEntriPemasukanPengeluaran.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\09 Pertemuan 9\upload\project\AppEntriPemasukanPengeluaran\bin\Debug\AppEntriPemasukanPengeluaran.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\09 Pertemuan 9\upload\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.csprojResolveAssemblyReference.cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\09 Pertemuan 9\upload\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.FrmNasabah.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\09 Pertemuan 9\upload\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.FrmEntriPemasukanPengeluaran.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\09 Pertemuan 9\upload\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.Properties.Resources.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\09 Pertemuan 9\upload\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.csproj.GenerateResource.Cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\09 Pertemuan 9\upload\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\09 Pertemuan 9\upload\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\09 Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\09 Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\09 Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\bin\Debug\AppEntriPemasukanPengeluaran.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\09 Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\bin\Debug\AppEntriPemasukanPengeluaran.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\09 Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.csprojResolveAssemblyReference.cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\09 Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.FrmNasabah.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\09 Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.FrmEntriPemasukanPengeluaran.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\09 Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.Properties.Resources.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\09 Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.csproj.GenerateResource.Cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\bin\Debug\AppEntriPemasukanPengeluaran.exe
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\bin\Debug\AppEntriPemasukanPengeluaran.pdb
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.csproj.AssemblyReference.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.FrmNasabah.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.FrmEntriPemasukanPengeluaran.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.Properties.Resources.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.csproj.GenerateResource.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.csproj.CoreCompileInputs.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.exe
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertemuan 9 (Responsi)\project\AppEntriPemasukanPengeluaran\obj\Debug\AppEntriPemasukanPengeluaran.pdb

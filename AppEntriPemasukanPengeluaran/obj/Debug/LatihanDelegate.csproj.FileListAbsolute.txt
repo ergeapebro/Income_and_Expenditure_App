@@ -1,0 +1,9 @@
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\bin\Debug\LatihanDelegate.exe
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\bin\Debug\LatihanDelegate.pdb
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\LatihanDelegate.csprojResolveAssemblyReference.cache
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\LatihanDelegate.FrmEntriPemasukanPengeluaran.resources
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\LatihanDelegate.Properties.Resources.resources
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\LatihanDelegate.csproj.GenerateResource.Cache
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\LatihanDelegate.exe
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\LatihanDelegate.pdb
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\LatihanDelegate\LatihanDelegate\obj\Debug\LatihanDelegate.FrmNasabah.resources
